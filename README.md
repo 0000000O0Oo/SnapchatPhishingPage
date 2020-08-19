@@ -5,4 +5,5 @@ J'ai créé une page de phishing pour snapchat vous pouvez l'utiliser dès maint
 à http://**votredomaine**/snapchat/login.php
 
 Vous pouvez changer le 'snapchat' dans votre url en modifiant le nom du dossier snapchat situé dans /var/www/html/snapchat
-*Live update with discord bot on the server *
+
+Hope you enjoy it !
